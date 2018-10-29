@@ -1,0 +1,16 @@
+{
+  "author": "hsanjuan",
+  "bugs": {
+    "url": "https://github.com/fuzxxl/nfc"
+  },
+  "gx": {
+    "dvcsimport": "github.com/fuzxxl/nfc"
+  },
+  "gxVersion": "0.14.0",
+  "language": "go",
+  "license": "LPGL-3.0",
+  "name": "nfc",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "2.0.2"
+}
+
